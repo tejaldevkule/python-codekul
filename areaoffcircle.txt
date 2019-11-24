@@ -1,0 +1,3 @@
+i=int(input('enter radius :'))
+a=3.14*i*i
+print("area of circle is:",a)

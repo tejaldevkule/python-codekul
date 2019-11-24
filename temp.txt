@@ -1,0 +1,5 @@
+tem=int (input("enter temp:"))
+cel=(tem - 32) * 0.5556
+fah=(tem * 1.8)+32
+print('temp in cel',cel)
+print('temp in fah',fah)
