@@ -1,0 +1,5 @@
+string=input('enter str:')
+if string[-3:]=='ing':
+    print(string+'ly')
+else:
+    print(string+'ing')
